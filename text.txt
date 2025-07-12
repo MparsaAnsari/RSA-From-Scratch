@@ -1,0 +1,3 @@
+this is simple text to test RSA project !!
+if you see this text in result.txt file it means it work correctlly
+there are some charachters here : <> [] {} 2 + 3 = 5 () ;',';;* += {}

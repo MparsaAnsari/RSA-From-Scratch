@@ -1,0 +1,6 @@
+# Output files
+keys.txt
+result.txt
+
+# Python cache
+__pycache__/
